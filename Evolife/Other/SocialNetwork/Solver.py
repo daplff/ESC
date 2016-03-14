@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 ## {{{ http://code.activestate.com/recipes/303396/ (r1)
 '''equation solver using attributes and introspection'''
 

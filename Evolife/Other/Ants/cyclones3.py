@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # life.py simulates John Conway's Game of Life with random initial states
 # -----------------------------------------------------------------------------
 import sys, random, pygame

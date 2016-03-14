@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 ##############################################################################
 # Affiliation     www.dessalles.fr/Evolife              Jean-Louis Dessalles #
 #                 Telecom ParisTech  2014                www.dessalles.fr    #

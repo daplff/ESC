@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #########################################################################
 # Walks through a file system tree and execute a command on files       #
 #   Jean-Louis Dessalles 2012                                           #

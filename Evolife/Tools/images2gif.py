@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """ MODULE images2gif
 
 Provides a function (writeGif) to write animated gif from a series

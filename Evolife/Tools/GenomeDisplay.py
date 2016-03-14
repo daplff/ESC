@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #########################################################################
 # Shows genome images in a suitable form to observe evolution           #
 #             JL Dessalles August 2013                                  #

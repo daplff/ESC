@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 __author__ = 'Robert'
 from images2gif import writeGif
 from PIL import Image
